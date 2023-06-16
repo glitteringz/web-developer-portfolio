@@ -1,0 +1,15 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Google Font */
+body {
+	font-family: 'Roboto Serif', serif;
+}
+
+html {
+	background: brown;
+}
